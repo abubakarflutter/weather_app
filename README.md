@@ -1,6 +1,6 @@
 # weather_app
 
-# This repo haven't commited wih full code yet. I'm trying to commit code daily. 
+# This repo haven't committed wih full code yet. I'm trying to commit code daily. 
 
 A new Flutter application. Which tells weather of any city in the world
 
